@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="no_data">Loading...</string>
+    <string name="date">Date</string>
+    <string name="dummy_date">12 Aug 2016</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="dummy_number">21</string>
+
+    <!--Header -->
+    <string name="header_text">Weather Forecast</string>
+    <string name="city">AMSTERDAM</string>
+    <string name="celcius">\u2103</string>
+    <string name="fahrenheit">℉</string>
+
+    <string name="fragment_tag">forecastTag</string>
+</resources>

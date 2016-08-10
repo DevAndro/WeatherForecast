@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="top_margin">16dp</dimen>
+    <dimen name="date_left_margin">16dp</dimen>
+    <dimen name="date_header_text_size">22sp</dimen>
+    <dimen name="date_text_size">20sp</dimen>
+    <dimen name="date_text_top_margin">14dp</dimen>
+    <dimen name="temp_layout_left_margin">40dp</dimen>
+    <dimen name="temp_left_margine">10dp</dimen>
+    <dimen name="temp_layout_width">100dp</dimen>
+    <dimen name="temp_layout_right_margin">20dp</dimen>
+    <dimen name="temp_text_size">18sp</dimen>
+</resources>
